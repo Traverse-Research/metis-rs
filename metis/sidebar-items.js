@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["NOPTIONS"],"enum":["Error"],"fn":["mesh_to_dual"],"mod":["option"],"struct":["Dual","Graph","Mesh"],"type":["Idx","Real","Result"]};
